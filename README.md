@@ -1,7 +1,7 @@
 # moskitrap
 Another way to fight against mosquitoes
 
-This is a project for my first year of high school
+This is a project for my first year of high school, done in cooperation of two students
 
 The principle is simple, we have mosquitoes that lay eggs in a standing water.
 The standing water get evacuate under the ground and get replaced with new water. This way we dont touch current wildlife.
